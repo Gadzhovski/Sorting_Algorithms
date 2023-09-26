@@ -1,0 +1,7 @@
+Algorithm Runtime Analysis
+
+Input Length: 50
+Bubble sort runtime (in microsecond): 10.654004290699959
+Insertion sort runtime (in microsecond): 17.0960184186697
+Merge sort runtime (in microsecond): 131.55399821698666
+Heap sort runtime (in microsecond): 160.6199936941266
